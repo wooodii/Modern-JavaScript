@@ -1,7 +1,5 @@
 ## ep6. 데이터 타입
 
-#### 목차
-
 #### 1) 데이터 타입 
 원시 타입 : number, string, boolean, undefined, null, symbol 
 객체 타입 : 객체, 함수, 배열

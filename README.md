@@ -8,10 +8,10 @@
 
 ## 👨‍👩‍👦‍👦 조원
 
-- 이도현 (istp)
+- [이도현-intp](https://github.com/9598dohyun)
 - 김지현 (intp)
 - 전지현 (isfj)
-- 최예지 (infj)
+- [최예지-infj](https://github.com/yechoi42)
 
 
 ## 🏃🏽‍♀️🏃‍♂️ kick off

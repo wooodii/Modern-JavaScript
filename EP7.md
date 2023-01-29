@@ -96,10 +96,3 @@ typeof undeclared; // 선언하지 않은 식별자를 사용할 경우, undefin
 2 ** 2.5; // 5.65685424
 Math.pow(2,2)
 ```
-
-#### 그외 연산자 
-? ?? delete new instanceof in 
-
-#### 연산자 부수 효과 
-
-#### 연산자 우선순위 & 결합 순서\

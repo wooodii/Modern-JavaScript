@@ -10,7 +10,7 @@
 
 - [이도현-intp](https://github.com/9598dohyun)
 - 김지현 (intp)
-- 전지현 (isfj)
+- [이도현-isfj](https://github.com/jihyun-jeon)
 - [최예지-infj](https://github.com/yechoi42)
 
 
